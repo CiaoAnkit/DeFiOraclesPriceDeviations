@@ -17,7 +17,9 @@ Decentralized Finance (DeFi) promises to transform the traditional financial sys
 
 Ankit Gangwal, Rahul Valluri, Mauro Conti.<br>
 Analyzing Price Deviations in DeFi Oracles.<br>
-In Proceedings of the 21st International Conference on Cryptology and Network Security (CANS 2022), in press, Abu Dhabi, UAE, November 13-16, 2022.
+In Proceedings of the 21st International Conference on Cryptology and Network Security<br>
+(CANS 2022), pages 329-338, Abu Dhabi, UAE, November 13-16, 2022.<br>
+DOI: https://link.springer.com/chapter/10.1007/978-3-031-20974-1_17
 
 <h3>Dataset</h3>
 
